@@ -35,4 +35,4 @@
 | 2.3         |  25/01/18       | UE4.19         | https://rebrand.ly/2_3_0 | //////                                                             |
 | 2.4         |  01/02/18       | UE4.19         | https://rebrand.ly/2_4_0 | //////                                                             |
 | 2.4.2       |  07/02/18       | UE4.19         | https://rebrand.ly/2_4_2 | 0x2CCDFD22AD74FBFEE693A81AC11ACE57E6D10D0B8AC5FA90E793A130BC540ED4 |
-| 2.5         |  13/02/18       | UE4.20         | //////                   | //////                                                             |
+| 2.5         |  13/02/18       | UE4.20         | https://rebrand.ly/2_5_0 | //////                                                             |
