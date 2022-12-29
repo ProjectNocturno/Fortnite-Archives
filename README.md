@@ -72,12 +72,12 @@
 # Season 6
 | Build       | Date            | Engine Version | Link                     | AES                                                                |
 | ----------- | --------------- | -------------- | ------------------------ | ------------------------------------------------------------------ |
-| 6.0         |  27/09/18       | UE4.21         | https://rebrand.ly/6_00_0| 0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
-| 6.01        |  03/10/18       | UE4.21         | https://rebrand.ly/6_00_1| 0x81C42E03B21760A5C457C8DB7D52BA066F0633D0891FD9E37CF118F27687924A |
-| 6.02        |  10/10/18       | UE4.21         | //                       | //                                                                 |
-| 6.1         |  16/10/18       | UE4.21         | https://rebrand.ly/5_21  | //                                                                 |
-| 6.2         |  23/10/18       | UE4.21         | https://rebrand.ly/5.30  | //                                                                 |
-| 6.21        |  01/11/18       | UE4.21         | https://rebrand.ly/5.40  | //                                                                 |
-| 6.22        |  06/11/18       | UE4.21         | https://rebrand.ly/5.41  | //                                                                 |
-| 6.3         |  14/11/18       | UE4.21         | https://rebrand.ly/5.41  | //                                                                 |
-| 6.31        |  27/11/18       | UE4.21         | https://rebrand.ly/5.41  | //                                                                 |
+| 6.0         |  27/09/18       | UE4.21         | https://rebrand.ly/6_00_0| 0xD99660BBE70346E5BBEC944E0921051408B41CCB753F0CFA945A0F941C333E3B |
+| 6.01        |  03/10/18       | UE4.21         | https://rebrand.ly/6_01_0| 0xD99660BBE70346E5BBEC944E0921051408B41CCB753F0CFA945A0F941C333E3B |
+| 6.02        |  10/10/18       | UE4.21         | https://rebrand.ly/6_02_0| 0xD99660BBE70346E5BBEC944E0921051408B41CCB753F0CFA945A0F941C333E3B |
+| 6.1         |  16/10/18       | UE4.21         | https://rebrand.ly/6_10_0| 0x47C3245CFAB0F785D4DB3FA8E9967F887ECD623FA51308F1BD6BDB58FCFC6583 |
+| 6.2         |  23/10/18       | UE4.21         | https://rebrand.ly/6_20_0| 0x60D1D252C5996FAC112A74EC72F84A6BCD2C61F7050812F70D0928B41A3D682A |
+| 6.21        |  01/11/18       | UE4.21         | https://rebrand.ly/6_21_0| 0x60D1D252C5996FAC112A74EC72F84A6BCD2C61F7050812F70D0928B41A3D682A |
+| 6.22        |  06/11/18       | UE4.21         | https://rebrand.ly/6_22_0| 0x60D1D252C5996FAC112A74EC72F84A6BCD2C61F7050812F70D0928B41A3D682A |
+| 6.3         |  14/11/18       | UE4.21         | https://rebrand.ly/6_30_0| 0xDA62D5DBF537499EF82351FC4751D2AFC82E35CAF19945BDD02E3C6BB9462491 |
+| 6.31        |  27/11/18       | UE4.21         | https://rebrand.ly/6_31_0| 0x9342FF75017B9502F0BDA699431876241436FC556F1AE12E285E96D143FC8BDC |
