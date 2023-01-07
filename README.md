@@ -81,3 +81,13 @@
 | 6.22        |  06/11/18       | UE4.21         | https://rebrand.ly/6_22_0| 0x60D1D252C5996FAC112A74EC72F84A6BCD2C61F7050812F70D0928B41A3D682A |
 | 6.3         |  14/11/18       | UE4.21         | https://rebrand.ly/6_30_0| 0xDA62D5DBF537499EF82351FC4751D2AFC82E35CAF19945BDD02E3C6BB9462491 |
 | 6.31        |  27/11/18       | UE4.21         | https://rebrand.ly/6_31_0| 0x9342FF75017B9502F0BDA699431876241436FC556F1AE12E285E96D143FC8BDC |
+
+# Season 7
+| Build       | Date            | Engine Version | Link                     | AES                                                                |
+| ----------- | --------------- | -------------- | ------------------------ | ------------------------------------------------------------------ |
+| 7.0         |  06/12/18       | UE4.22         | https://rebrand.ly/7_00  | //                                                                 |
+| 7.01        |  11/12/18       | UE4.22         | https://rebrand.ly/      | //                                                                 |
+| 7.1         |  18/12/18       | UE4.22         | https://rebrand.ly/07_10 | 0x73C95026DDCE5F8CE52BB69C55B8FA027E9FF58C6211D9001095AAC2ABDE6714 |
+| 7.2         |  22/01/19       | UE4.22         | https://rebrand.ly/7_20  | 0x265E1A5E2741895843D75728B73AEB6A814D3B0302FC69BE39BB3F408B9B54E6 |
+| 7.3         |  29/01/19       | UE4.22         | https://rebrand.ly/      | 0xD23E6F3CF45A2E31081CB7D5F94C85EC50CCB1A804F8C90248F72FA3896912E4 |
+| 7.4         |  13/02/19       | UE4.22         | https://rebrand.ly/      | 0xF2A0859F249BC9A511B3A8766420C6E943004CF0EAEE5B7CFFDB8F10953E994F |
