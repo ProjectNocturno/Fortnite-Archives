@@ -91,3 +91,20 @@
 | 7.2         |  22/01/19       | UE4.22         | https://rebrand.ly/7_20  | 0x265E1A5E2741895843D75728B73AEB6A814D3B0302FC69BE39BB3F408B9B54E6 |
 | 7.3         |  29/01/19       | UE4.22         | https://rebrand.ly/      | 0xD23E6F3CF45A2E31081CB7D5F94C85EC50CCB1A804F8C90248F72FA3896912E4 |
 | 7.4         |  13/02/19       | UE4.22         | https://rebrand.ly/      | 0xF2A0859F249BC9A511B3A8766420C6E943004CF0EAEE5B7CFFDB8F10953E994F |
+
+
+
+
+
+# Other
+
+# Season 2
+| Build       | Engine Version | SDK                        |
+| ----------- | -------------- | -------------------------- |
+| 1.11        | UE4.19         | https://rebrand.ly/ljg0hna |
+| 2.1         | UE4.19         | https://rebrand.ly/cw9oejj |
+| 2.2         | UE4.19         |
+| 2.3         | UE4.19         |
+| 2.4         | UE4.19         |
+| 2.4.2       | UE4.19         | https://rebrand.ly/ztqinog |
+| 2.5         | UE4.20         |
